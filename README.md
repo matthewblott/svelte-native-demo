@@ -1,4 +1,4 @@
-# Simple Svelte Native App
+# Svelte Native Demo App
 
 This is an almost like-for-like copy of the examples that ship with the official Svelte Native repo [here](https://github.com/halfnelson/svelte-native/tree/master/demo). 
 
